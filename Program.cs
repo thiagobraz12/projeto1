@@ -10,7 +10,7 @@ valor2 = int.Parse(Console.ReadLine());
 
 resultado = valor1 + valor2;
 
-// como fazer if e else
+// como fazer if e else e console.
 if (resultado > 2)
 {
     
