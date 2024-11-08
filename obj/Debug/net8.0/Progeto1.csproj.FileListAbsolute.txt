@@ -12,3 +12,4 @@ C:\Users\cartu\source\repos\Progeto1\obj\Debug\net8.0\refint\Progeto1.dll
 C:\Users\cartu\source\repos\Progeto1\obj\Debug\net8.0\Progeto1.pdb
 C:\Users\cartu\source\repos\Progeto1\obj\Debug\net8.0\Progeto1.genruntimeconfig.cache
 C:\Users\cartu\source\repos\Progeto1\obj\Debug\net8.0\ref\Progeto1.dll
+C:\Users\cartu\source\repos\Progeto1\obj\Debug\net8.0\Progeto1.sourcelink.json
